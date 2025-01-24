@@ -1,0 +1,1 @@
+{"id":"2d6749f5-ecf5-4c3e-a66e-720c89e3f7a9","name":"[R-POINT] Point for Accepted","triggers":[],"criteria":{"conditions":[],"junctors":[]},"actions":[{"type":"GIVE","parameters":["POINTS","1"]}]}
